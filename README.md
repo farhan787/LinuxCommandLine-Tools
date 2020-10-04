@@ -1,4 +1,6 @@
 # Unix and Linux Command Line Tools
+       
+## <img src="https://i.imgur.com/qdU0MQY.png" alt="drawing" width="40"/>  [Download PDF](https://drive.google.com/open?id=1EFYgDFmrbr0dYRzGsEO7E5vhZGFIGTAK)
 
 ### Symbols and Uses
 1. **>** redirects standard output of a command to a file, overwriting previous content.
@@ -270,5 +272,4 @@ For example, many commands we've learned are scripts stored in the /bin director
        ``` terminal
           $ ls ../
        ```
-       
-## [Downloadable PDF](https://drive.google.com/open?id=1EFYgDFmrbr0dYRzGsEO7E5vhZGFIGTAK)
+
